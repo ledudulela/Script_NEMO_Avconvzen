@@ -1,8 +1,8 @@
 #!/bin/bash
 # auteur : ledudulela
 # version: 1.2
-# màj : 2018-09-01 15:40
-# Objet: Lanceur du script avconvzen depuis le gestionnaire de fichier (Caja)
+# màj : 2018-09-13 20:20
+# Objet: Lanceur du script avconvzen depuis le gestionnaire de fichier (Nemo)
 # Prérequis: zenity; avconv; avconvzen
 # Pour avconvzen, ouvrez en tant qu'administrateur le répertoire /usr/local/bin
 # Collez y le fichier 'avconvzen' et rendez le exécutable
